@@ -17,3 +17,6 @@ fields:
 - type: list
   name: images
   label: images
+- name: test
+  type: boolean
+  label: Test
