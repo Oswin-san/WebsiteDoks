@@ -20,5 +20,3 @@ fields:
 - name: test
   type: boolean
   label: Test
-pages:
-- content/Test/test.md
